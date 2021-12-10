@@ -3,7 +3,7 @@ package Day3Assignments;
 import com.customerror.InvalidDataException;
 import com.custom.StockLogic;
 
-public class CustomEg {
+public class Assignment2 {
 
 	
 
