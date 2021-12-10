@@ -1,6 +1,6 @@
 package Day3Assignments;
 
-public class Assignment1 {
+public class Assignment1Eg {
 	 public static void validate(int age) {  
 	        if(age<18) {  
 	            throw new ArithmeticException("Person is not eligible to vote");    
