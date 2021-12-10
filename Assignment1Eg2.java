@@ -1,6 +1,6 @@
 package Day3Assignments;
 
-public class ThrowEg2 {
+public class Assignment1Eg2 {
 	
 	static void fun() throws IllegalAccessException 
     {
